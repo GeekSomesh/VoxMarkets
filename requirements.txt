@@ -1,5 +1,5 @@
 kafka-python==2.0.2
-newsapi==1.4
+newsapi-python
 yfinance==0.2.32
 pandas==2.0.3
 numpy==1.24.3
