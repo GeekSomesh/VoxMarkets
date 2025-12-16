@@ -3,9 +3,9 @@
 .env.local
 .env.*.local
 
-# Data files
-data/
+# Data CSV files (but keep data_ingestion/ code)
 *.csv
+data/*.csv
 
 # ML models
 models/

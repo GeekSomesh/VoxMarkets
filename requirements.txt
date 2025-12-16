@@ -1,9 +1,16 @@
 # Existing
 kafka-python==2.0.2
+<<<<<<< HEAD
 newsapi==1.4
 yfinance==0.2.40
 pandas==2.1.0
 numpy==1.25.0
+=======
+newsapi-python
+yfinance==0.2.32
+pandas==2.0.3
+numpy==1.24.3
+>>>>>>> 1d33bbb6974900a380768e2397c8086468d74ab2
 psycopg2-binary==2.9.9
 python-dotenv==1.0.0
 requests==2.31.0
