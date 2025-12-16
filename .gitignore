@@ -3,15 +3,6 @@
 .env.local
 .env.*.local
 
-# Data files (CSV and pickle) - exclude only data artifacts
-data/*.csv
-data/*.pkl
-
-# ML model artifacts (but keep models folder)
-*.pkl
-*.joblib
-*.h5
-
 # Python cache and virtual environments
 __pycache__/
 *.py[cod]
