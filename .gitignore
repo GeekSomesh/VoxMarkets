@@ -7,8 +7,7 @@
 data/*.csv
 data/*.pkl
 
-# ML models
-models/
+# ML model artifacts (but keep models folder)
 *.pkl
 *.joblib
 *.h5
