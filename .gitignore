@@ -1,0 +1,43 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# Data files
+data/
+*.csv
+
+# ML models
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+tmp/
+temp/
