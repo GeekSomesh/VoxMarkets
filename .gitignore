@@ -3,9 +3,9 @@
 .env.local
 .env.*.local
 
-# Data CSV files (but keep data_ingestion/ code)
-*.csv
+# Data files (CSV and pickle) - exclude only data artifacts
 data/*.csv
+data/*.pkl
 
 # ML models
 models/
